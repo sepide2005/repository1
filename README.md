@@ -1,2 +1,3 @@
-# repository1
-this is a test!
+# simple example repository
+
+this is my first practice!
